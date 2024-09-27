@@ -1,6 +1,7 @@
 # Unemployment-in-India
 
-#### Project Overview: This project delves into the analysis of unemployment trends across various regions in India, exploring the distribution, variability, and patterns in unemployment rates. The analysis is based on datasets containing information on estimated unemployment, employment figures, and labor participation rates across multiple Indian states.
+#### Project Overview: 
+###### This project delves into the analysis of unemployment trends across various regions in India, exploring the distribution, variability, and patterns in unemployment rates. The analysis is based on datasets containing information on estimated unemployment, employment figures, and labor participation rates across multiple Indian states.
 #### Data Sources:
 ###### •	The primary datasets used for this analysis include Unemployment_in_India.csv and Unemployment_Rate_upto_11_2020.csv. These datasets cover various regions and time periods and were pre-processed to ensure data quality and consistency.
 #### Key Steps in the Analysis:
